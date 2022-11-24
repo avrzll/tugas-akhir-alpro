@@ -1,0 +1,134 @@
+{
+   "histori sewaan": [
+      {
+         "id pesanan": "KFVJPIZ",
+         "nama penyewa": "APAL",
+         "no hp": 625555555,
+         "barang sewaan": [
+            {
+               "id": 1,
+               "nama barang": "Tenda dome max 4 org",
+               "harga barang": 20000
+            },
+            {
+               "id": 5,
+               "nama barang": "Carrier REI / Consina 60 lt + Cover",
+               "harga barang": 20000
+            }
+         ],
+         "waktu sewa": 7,
+         "subtotal": 10000,
+         "diskon": 100000,
+         "total bayar": 10000000,
+         "tunai": 1000000,
+         "kembali": 10000
+      },
+      {
+         "id pesanan": "LYD6M3O",
+         "nama penyewa": "IFUN",
+         "no hp": 627867623,
+         "barang sewaan": [
+            {
+               "id": 3,
+               "nama barang": "Tenda Pramuka 10 org",
+               "harga barang": 50000
+            },
+            {
+               "id": 5,
+               "nama barang": "Carrier REI / Consina 60 lt + Cover",
+               "harga barang": 20000
+            }
+         ],
+         "waktu sewa": 6,
+         "subtotal": 960000,
+         "diskon": 240000.0,
+         "total bayar": 720000.0,
+         "tunai": 750000,
+         "kembali": 30000.0
+      },
+      {
+         "id pesanan": "BTBR708",
+         "nama penyewa": "UDIN",
+         "no hp": 6278687622,
+         "barang sewaan": [
+            {
+               "id": 1,
+               "nama barang": "Tenda dome max 4 org",
+               "harga barang": 20000
+            },
+            {
+               "id": 3,
+               "nama barang": "Tenda Pramuka 10 org",
+               "harga barang": 50000
+            },
+            {
+               "id": 2,
+               "nama barang": "Tenda Consina Magnum 4",
+               "harga barang": 30000
+            }
+         ],
+         "waktu sewa": 3,
+         "subtotal": 540000,
+         "diskon": 81000.0,
+         "total bayar": 459000.0,
+         "tunai": 470000,
+         "kembali": 11000.0
+      },
+      {
+         "id pesanan": "8K7OFF4",
+         "nama penyewa": "WAWAN",
+         "no hp": 62687673232,
+         "barang sewaan": [
+            {
+               "id": 2,
+               "nama barang": "Tenda Consina Magnum 4",
+               "harga barang": 30000
+            },
+            {
+               "id": 3,
+               "nama barang": "Tenda Pramuka 10 org",
+               "harga barang": 50000
+            },
+            {
+               "id": 1,
+               "nama barang": "Tenda dome max 4 org",
+               "harga barang": 20000
+            },
+            {
+               "id": 5,
+               "nama barang": "Carrier REI / Consina 60 lt + Cover",
+               "harga barang": 20000
+            }
+         ],
+         "waktu sewa": 6,
+         "subtotal": 1980000,
+         "diskon": 495000.0,
+         "total bayar": 1485000.0,
+         "tunai": 1500000,
+         "kembali": 15000.0
+      },
+      {
+         "id pesanan": "KJAVQGO",
+         "nama penyewa": "budi",
+         "no hp": 87665578,
+         "barang sewaan": [
+            {
+               "id": 14,
+               "nama barang": "Matras",
+               "harga barang": 3000
+            },
+            {
+               "id": 1,
+               "nama barang": "Tenda dome max 4 org",
+               "harga barang": 20000
+            }
+         ],
+         "waktu sewa": 2,
+         "subtotal": 46000,
+         "diskon": 0,
+         "total bayar": 46000,
+         "tunai": 200000000000,
+         "kembali": 199999954000
+      }
+   ]
+}
